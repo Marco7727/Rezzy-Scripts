@@ -14,8 +14,8 @@ if not _G.KEY or type(_G.KEY) ~= "string" or _G.KEY == "" then
 end
 
 -- CONFIG PRINCIPAL  
-local API_URL = "https://miku-scripts.onrender.com/api/roblox-script"
-local KEY_VALIDATION_URL = "https://miku-scripts.onrender.com/api/key-validation"
+local API_URL = "https://rezzy-notify.onrender.com/api/roblox-script"
+local KEY_VALIDATION_URL = "https://rezzy-notify.onrender.com/api/key-validation"
 local HttpService = game:GetService("HttpService")
 local StarterGui = game:GetService("StarterGui")
 
